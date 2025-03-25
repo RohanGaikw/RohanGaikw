@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rohan Gaikwad
 - 👀 I’m interested in MERN
-- 🌱 I’m currently Working on MernStack
+- 🌱 I’m currently Working On MernStack
 - 📫 How to reach me gaikwadrohan8916@gmail.com
 
 
